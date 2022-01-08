@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulsurve000
+- 👋 Hi, I’m @rahulsurve
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning skills required to become a good web developer
 - 💞️ I’m looking to collaborate on ...
